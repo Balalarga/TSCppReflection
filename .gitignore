@@ -1,0 +1,12 @@
+.cache/
+.idea/
+.vs/
+
+[Dd]ebug/
+[Rr]elease/
+[Bb]uild/
+
+vcpkg_installed/
+
+compile_commands.json
+*.sln
